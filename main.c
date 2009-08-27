@@ -9,7 +9,7 @@ int main(int argc, char **argv)
 
     printf ("Add your lastname\n");
 
-    printf ("Bug from original master\n");
+     
 
     return 0;
 }
